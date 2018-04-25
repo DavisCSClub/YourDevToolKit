@@ -1,8 +1,8 @@
 # **Your Developer Tool Kit Workshop**
 ## By the Davis Computer Science Club, 4/25/18
-### Host: Bryan Ngo
+### Host: [Bryan Ngo](http://bryngo.me)
 
-## Set up
+## 1. Set up
 ### macOS
 1. Install Homebrew
 2. Install Git
@@ -12,26 +12,38 @@
 ### Linux
 1. Install git (should already be installed)
 
-## Last Week, Brand Development. Now what?
+## 2. Last Week, Brand Development. Now what?
 ### Personal Website
+- *walk-through, est. 25m (?)*
 
-## Optimizing Your Workflow
+## 3. Optimizing Your Workflow
 ### Text Editors
-
+- *insert a nice graph here showcasing out-of-box effectiveness*
+-
 #### Bottom Tier
 ##### Vim / Emacs
+- *maybe a demo here? probably not needed*
 
 #### Middle Tier
 ##### Atom / Sublime
+- *show off atom cli & quick markdown plugin demo*
+- be sure to mention how bad & clunky MS office is
 
 ##### Top Tier
 ###### IDEs
+- *middle tier vs top tier demo*
 
-### Alfred (?)
+#### Alfred (?)
+- *research this*
 
-#### Random Plugins
-##### youtube-dl
+## 4. Random Plugins
+### youtube-dl
 - Like youtube clip converter, but without the ads and more command line
+- *outline quick demo*
 
-##### oh-my-zsh
+### oh-my-zsh
 - allows to greater customization to your shell
+- *outline very quick demo*
+
+## 5. Honorable Mentions (Plugins)
+- Travs CI
