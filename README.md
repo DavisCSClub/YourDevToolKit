@@ -8,13 +8,17 @@
 
 **Copy and paste** the following in your **terminal** and hit `return`.
 
-`$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
 
 2. Install [Git](https://github.com/git/git)
 
 **Copy and paste** the following in your **terminal** and hit `return`.
 
-`$ brew install git`
+```
+brew install git
+```
 
 ### Windows
 1. Install [cmder](http://cmder.net)
@@ -27,16 +31,51 @@
 
 ### Linux
 1. Install git
-    - Open your terminal and type the following:
+
+**Copy and paste** the following in your **terminal** and hit `return`.
+
 ```
-$ sudo apt-get update
-$ sudo apt-get upgrade
-$ sudo apt-get install git
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install git
 ```
+
 
 ## 2. Last Week, Brand Development. Now what?
 ### Personal Website
-- *walk-through, est. 25m (?)*
+1. Go [here](https://github.com/new) and create a new repository with format of
+`<YOUR GITHUB USERNAME>.github.io`. My username is `bryngo`, so I would name my repo
+`bryngo.github.io`
+2. Clone the [repository](https://github.com/DavisCSClub/YourDevToolKit) for
+today's workshop.
+
+```
+git clone https://github.com/DavisCSClub/YourDevToolKit.git
+```
+
+3. *Copy* or *move* the `Ceevee10` folder to a different working directory on
+your computer and then `cd` into it.
+
+```
+cp -r YourDevToolKit/Ceevee10 ~/Desktop/
+cd ~/Desktop/Ceevee10
+```
+
+4. Locally initialize the local `Ceevee10` directory as a new local git repository and
+push all the files to GitHub
+
+```
+git init
+git remote add origin <YOUR REPO URL>
+git add -A
+git commit -m "Initial Commit"
+git push -u origin master
+```
+
+5. Your site should now be live! Head to `<YOUR GITHUB USERNAME>.github.io` to
+see your site. I would go to `bryngo.github.io`
+
+6. Now, let's make some changes to our website.
 
 ## 3. Optimizing Your Workflow
 ### Text Editors
