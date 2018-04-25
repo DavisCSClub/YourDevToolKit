@@ -4,13 +4,35 @@
 
 ## 1. Set up
 ### macOS
-1. Install Homebrew
-2. Install Git
+1. Install [Homebrew](https://brew.sh)
+
+**Copy and paste** the following in your **terminal** and hit `return`.
+
+`$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+
+2. Install [Git](https://github.com/git/git)
+
+**Copy and paste** the following in your **terminal** and hit `return`.
+
+`$ brew install git`
+
 ### Windows
-1. Install cmder
+1. Install [cmder](http://cmder.net)
+
+*Click on the above link to the installtion file*
+
 2. Install git
+
+*Nothing to be done here! Git should come wth Cmder*
+
 ### Linux
-1. Install git (should already be installed)
+1. Install git
+    - Open your terminal and type the following:
+```
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install git
+```
 
 ## 2. Last Week, Brand Development. Now what?
 ### Personal Website
@@ -44,6 +66,9 @@
 ### oh-my-zsh
 - allows to greater customization to your shell
 - *outline very quick demo*
+
+### keycastr
+- https://github.com/keycastr/keycastr
 
 ## 5. Honorable Mentions (Plugins)
 - Travs CI
