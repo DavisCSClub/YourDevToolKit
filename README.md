@@ -77,24 +77,49 @@ see your site. I would go to `bryngo.github.io`
 
 6. Now, let's make some changes to our website.
 
+#### Optional Further Steps
+##### Get a custom domain
+- [Namecheap](https://www.namecheap.com)
+  - About $10 a year depending on domain
+##### Get a server
+- [DigitalOcean](http://digitalocean.com)
+  - Cheapest option is $5 a month
+
 ## 3. Optimizing Your Workflow
 ### Text Editors
-- *insert a nice graph here showcasing out-of-box effectiveness*
--
+
+*Note: Picture shown below is a complete opinion and pretty inaccurate.
+illustrative purposes only*
+
+![Text Editor Effectivess](./images/Rplot.png)
+
 #### Bottom Tier
 ##### Vim / Emacs
-- *maybe a demo here? probably not needed*
+- Why use this?
+  - Making changes to files on a server.
+  - Nice for quick / small changes
+- Everyone should know how to use this.
 
 #### Middle Tier
 ##### Atom / Sublime
-- *show off atom cli & quick markdown plugin demo*
-- be sure to mention how bad & clunky MS office is
+- Why use this?
+  - You're tired to the clunky interface from vim, and don't feel like learning
+  all the shortcuts.
+- Awesome plugins ([Atom](https://atom.io))
+  - *Demo Markdown + LaTeX plugin*
 
 ##### Top Tier
 ###### IDEs
-- *middle tier vs top tier demo*
+- Why use this?
+  - You're using middle tier text editors, but you find yourself using other
+  tools to help with your development (debuggers, database viewers, etc).
+- IDEs are pretty much intelligent and customizable text editors.
+- *Demo C++ code refactoring*
 
-#### Alfred (?)
+##### Text Editor Summary
+
+
+### Alfred (?)
 - *research this*
 
 ## 4. Random Plugins
