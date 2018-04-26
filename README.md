@@ -129,16 +129,16 @@ advantage of its full potential.
 ### [youtube-dl](https://github.com/rg3/youtube-dl)
 - Like youtube clip converter, but without the ads and more command line
 
-### oh-my-zsh
+### [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 - allows to greater customization to your shell
 - Lots of plug-ins
   - [osx](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/osx)
   - [pj](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/pj)
   - [thefuck](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/thefuck)
 
-
-### keycastr
-- https://github.com/keycastr/keycastr
+### [keycastr](https://github.com/keycastr/keycastr)
+  - shows what hotkeys you press
+  - useful if you keep forgetting what the control symbols are
 
 ## 5. Honorable Mentions (Plugins)
 - [Travs CI](https://travis-ci.org)
