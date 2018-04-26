@@ -1,4 +1,4 @@
-# **Your Developer Tool Kit Workshop**
+``# **Your Developer Tool Kit Workshop**
 ## By the Davis Computer Science Club, 4/25/18
 ### Host: [Bryan Ngo](http://bryngo.me)
 
@@ -93,7 +93,7 @@ illustrative purposes only*
 
 ![Text Editor Effectivess](./images/Rplot.png)
 
-#### Bottom Tier
+#### Lower Tier
 ##### Vim / Emacs
 - Why use this?
   - Making changes to files on a server.
@@ -117,22 +117,31 @@ illustrative purposes only*
 - *Demo C++ code refactoring*
 
 ##### Text Editor Summary
+- Different tiers require different levels of commitment to really take
+advantage of its full potential.
+- Out of the box performance vs performance after learning the tool
 
-
-### Alfred (?)
-- *research this*
+### [Alfred](https://www.alfredapp.com)
+- macOS application of workflow optimization
+  - cost money :(
 
 ## 4. Random Plugins
-### youtube-dl
+### [youtube-dl](https://github.com/rg3/youtube-dl)
 - Like youtube clip converter, but without the ads and more command line
-- *outline quick demo*
 
 ### oh-my-zsh
 - allows to greater customization to your shell
-- *outline very quick demo*
+- Lots of plug-ins
+  - [osx](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/osx)
+  - [pj](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/pj)
+  - [thefuck](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/thefuck)
+
 
 ### keycastr
 - https://github.com/keycastr/keycastr
 
 ## 5. Honorable Mentions (Plugins)
-- Travs CI
+- [Travs CI](https://travis-ci.org)
+  - Integrate testing into your projects
+- [Anaconda](https://www.anaconda.com/download/#macos)
+  - Popular way to manage python modules / python versions
