@@ -108,8 +108,8 @@ illustrative purposes only*
 - Awesome plugins ([Atom](https://atom.io))
   - *Demo Markdown + LaTeX plugin*
 
-##### Top Tier
-###### IDEs
+#### Top Tier
+##### IDEs
 - Why use this?
   - You're using middle tier text editors, but you find yourself using other
   tools to help with your development (debuggers, database viewers, etc).
