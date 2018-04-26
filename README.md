@@ -1,4 +1,4 @@
-``# **Your Developer Tool Kit Workshop**
+# **Your Developer Tool Kit Workshop**
 ## By the Davis Computer Science Club, 4/25/18
 ### Host: [Bryan Ngo](http://bryngo.me)
 
